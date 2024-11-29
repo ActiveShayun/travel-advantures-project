@@ -1,0 +1,292 @@
+[
+  {
+      "adventureTitle": "Mountain Trekking in Andes",
+      "image": "https://i.ibb.co.com/x31sb5n/Mountain-Treks.webp",
+      "id": 1,
+      "categoryName": "Mountain Treks",
+      "shortDescription": "Conquer the peaks of the Andes.",
+      "adventureCost": 550,
+      "bookingAvailability": true,
+      "location": "Andes Mountains, Peru",
+      "duration": "6 days",
+      "adventureLevel": "Challenging",
+      "includedItems": [
+          "High-altitude trekking guide",
+          "Hot meals and coca tea",
+          "Portable oxygen cylinder",
+          "Tent and sleeping pads"
+      ],
+      "ecoFriendlyFeatures": [
+          "Support for local communities",
+          "Minimal-impact hiking practices",
+          "Reusable food containers"
+      ],
+      "maxGroupSize": 12,
+      "specialInstructions": [
+          "Prepare for cold nights.",
+          "Pack high-calorie snacks.",
+          "Stay hydrated to avoid altitude sickness."
+      ]
+  },
+  {
+      "adventureTitle": "Mountain Trekking in Alps",
+      "image": "https://i.ibb.co.com/M728cQj/Mountain-Treks.webp",
+      "id": 2,
+      "categoryName": "Mountain Treks",
+      "shortDescription": "Traverse scenic Alpine trails.",
+      "adventureCost": 600,
+      "bookingAvailability": true,
+      "location": "Alps, Switzerland",
+      "duration": "5 days",
+      "adventureLevel": "Moderate",
+      "includedItems": [
+          "Local Alpine guide",
+          "Trail snacks and beverages",
+          "Emergency rescue insurance",
+          "Lightweight trekking poles"
+      ],
+      "ecoFriendlyFeatures": [
+          "Solar-powered accommodations",
+          "Support for Alpine flora conservation",
+          "Waste separation and composting"
+      ],
+      "maxGroupSize": 10,
+      "specialInstructions": [
+          "Use layered clothing.",
+          "Bring trekking maps and apps.",
+          "Be cautious of changing weather."
+      ]
+  },
+  {
+      "adventureTitle": "Mountain Trekking in Rockies",
+      "image": "https://i.ibb.co.com/6mWT4wZ/Mountain-Trekking-in-Rockies.webp",
+      "id": 3,
+      "categoryName": "Mountain Treks",
+      "shortDescription": "Hike through the rugged Rockies.",
+      "adventureCost": 480,
+      "bookingAvailability": true,
+      "location": "Rocky Mountains, Canada",
+      "duration": "7 days",
+      "adventureLevel": "Moderate",
+      "includedItems": [
+          "Experienced mountain guide",
+          "Bear-safe food storage",
+          "Trail permits and navigation tools",
+          "Emergency communication device"
+      ],
+      "ecoFriendlyFeatures": [
+          "Habitat preservation programs",
+          "Locally-sourced meal options",
+          "Reusable water filtration system"
+      ],
+      "maxGroupSize": 15,
+      "specialInstructions": [
+          "Pack bear spray.",
+          "Avoid loud noises during hikes.",
+          "Leave no trace on the trail."
+      ]
+  },
+  {
+      "adventureTitle": "Mountain Trekking in Atlas",
+      "image": "https://i.ibb.co.com/N79sJ6V/Mountain-Trekking-in-Atlas.jpg",
+      "id": 4,
+      "categoryName": "Mountain Treks",
+      "shortDescription": "Discover the trails of the Atlas Mountains.",
+      "adventureCost": 450,
+      "bookingAvailability": true,
+      "location": "Atlas Mountains, Morocco",
+      "duration": "4 days",
+      "adventureLevel": "Challenging",
+      "includedItems": [
+          "Local Berber guide",
+          "Traditional Moroccan meals",
+          "Mountain shelters",
+          "First-aid kit"
+      ],
+      "ecoFriendlyFeatures": [
+          "Partnerships with local tribes",
+          "Eco-certified trekking routes",
+          "Energy-efficient lighting in camps"
+      ],
+      "maxGroupSize": 8,
+      "specialInstructions": [
+          "Carry sunscreen and a hat.",
+          "Respect Berber customs and traditions.",
+          "Avoid using single-use plastics."
+      ]
+  },
+  {
+      "adventureTitle": "Mountain Trekking in Drakensberg",
+      "image": "https://i.ibb.co.com/mC3Pws3/Mountain-Trekking-in-Drakensberg.jpg",
+      "id": 5,
+      "categoryName": "Mountain Treks",
+      "shortDescription": "Embark on an epic journey in Drakensberg.",
+      "adventureCost": 520,
+      "bookingAvailability": true,
+      "location": "Drakensberg, South Africa",
+      "duration": "5 days",
+      "adventureLevel": "Moderate",
+      "includedItems": [
+          "Wilderness survival guide",
+          "Daypacks with water reservoirs",
+          "Camping equipment",
+          "Emergency flare"
+      ],
+      "ecoFriendlyFeatures": [
+          "Wildlife protection initiatives",
+          "Sustainable food packaging",
+          "Eco-friendly trekking permits"
+      ],
+      "maxGroupSize": 10,
+      "specialInstructions": [
+          "Wear breathable clothing.",
+          "Prepare for steep inclines.",
+          "Carry insect repellent."
+      ]
+  },
+  {
+      "adventureTitle": "Mountain Trekking in Pyrenees",
+      "image": "https://i.ibb.co.com/pd5vhsP/Mountain-Trekking-in-Pyrenees.jpg",
+      "id": 6,
+      "categoryName": "Mountain Treks",
+      "shortDescription": "Explore the enchanting Pyrenees.",
+      "adventureCost": 570,
+      "bookingAvailability": true,
+      "location": "Pyrenees, France/Spain",
+      "duration": "6 days",
+      "adventureLevel": "Challenging",
+      "includedItems": [
+          "Bilingual trekking guide",
+          "Gourmet trail meals",
+          "Safety ropes and harnesses",
+          "Portable weather radio"
+      ],
+      "ecoFriendlyFeatures": [
+          "Preservation of mountain ecosystems",
+          "Composting of organic waste",
+          "Educational sessions on biodiversity"
+      ],
+      "maxGroupSize": 12,
+      "specialInstructions": [
+          "Bring sturdy trekking poles.",
+          "Avoid disturbing wildlife.",
+          "Wear waterproof hiking boots."
+      ]
+  },
+  {
+      "adventureTitle": "Mountain Trekking in Karakoram",
+      "image": "https://i.ibb.co.com/Hxpwqyw/Mountain-Trekking-in-Karakoram.jpg",
+      "id": 7,
+      "categoryName": "Mountain Treks",
+      "shortDescription": "Experience the beauty of the Karakoram Range.",
+      "adventureCost": 620,
+      "bookingAvailability": true,
+      "location": "Karakoram Range, Pakistan",
+      "duration": "8 days",
+      "adventureLevel": "Challenging",
+      "includedItems": [
+          "High-altitude porter services",
+          "Satellite phone for emergencies",
+          "Insulated sleeping bags",
+          "Meals with local spices"
+      ],
+      "ecoFriendlyFeatures": [
+          "Minimal-waste trekking practices",
+          "Reforestation support",
+          "Ethical tourism guidelines"
+      ],
+      "maxGroupSize": 10,
+      "specialInstructions": [
+          "Acclimatize before starting.",
+          "Carry a detailed itinerary.",
+          "Pack high-energy snacks."
+      ]
+  },
+  {
+      "adventureTitle": "Mountain Trekking in Dolomites",
+      "image": "https://i.ibb.co.com/bBVkF8b/Mountain-Trekking-in-Dolomites.webp",
+      "id": 8,
+      "categoryName": "Mountain Treks",
+      "shortDescription": "Roam the dramatic landscapes of the Dolomites.",
+      "adventureCost": 500,
+      "bookingAvailability": true,
+      "location": "Dolomites, Italy",
+      "duration": "4 days",
+      "adventureLevel": "Moderate",
+      "includedItems": [
+          "Trail maps and GPS devices",
+          "Energy bars and Italian coffee",
+          "Lightweight hiking gear",
+          "Emergency medical kit"
+      ],
+      "ecoFriendlyFeatures": [
+          "Promoting local culture",
+          "Plastic-free campsites",
+          "Renewable energy in lodges"
+      ],
+      "maxGroupSize": 10,
+      "specialInstructions": [
+          "Prepare for sharp elevation changes.",
+          "Bring a small first-aid kit.",
+          "Use eco-friendly trail markers."
+      ]
+  },
+  {
+      "adventureTitle": "Mountain Trekking in Caucasus",
+      "image": "https://i.ibb.co.com/fMNW442/Mountain-Trekking-in-Caucasus.webp",
+      "id": 9,
+      "categoryName": "Mountain Treks",
+      "shortDescription": "Venture into the wild Caucasus.",
+      "adventureCost": 540,
+      "bookingAvailability": true,
+      "location": "Caucasus, Georgia",
+      "duration": "5 days",
+      "adventureLevel": "Challenging",
+      "includedItems": [
+          "Mountain guide with local expertise",
+          "Thermal blankets",
+          "Nutrient-rich meals",
+          "Navigation tools"
+      ],
+      "ecoFriendlyFeatures": [
+          "Eco-certified trekking agencies",
+          "Zero-waste cooking practices",
+          "Trail preservation initiatives"
+      ],
+      "maxGroupSize": 15,
+      "specialInstructions": [
+          "Pack lightweight, warm clothing.",
+          "Study local trail regulations.",
+          "Carry reusable utensils."
+      ]
+  },
+  {
+      "adventureTitle": "Mountain Trekking in Himalayas",
+      "image": "https://i.ibb.co.com/JCPg5px/Mountain-Trekking-in-Himalayas.jpg",
+      "id": 10,
+      "categoryName": "Mountain Treks",
+      "shortDescription": "Reach the roof of the world in the Himalayas.",
+      "adventureCost": 700,
+      "bookingAvailability": true,
+      "location": "Himalayas, Nepal",
+      "duration": "10 days",
+      "adventureLevel": "Extreme",
+      "includedItems": [
+          "Sherpa support team",
+          "Climbing permits",
+          "High-altitude medical kit",
+          "Oxygen mask and tanks"
+      ],
+      "ecoFriendlyFeatures": [
+          "Mountain waste cleanup programs",
+          "Solar-powered campsites",
+          "Cultural preservation tours"
+      ],
+      "maxGroupSize": 8,
+      "specialInstructions": [
+          "Prepare for extreme altitudes.",
+          "Train physically beforehand.",
+          "Follow guide instructions closely."
+      ]
+  }
+]
